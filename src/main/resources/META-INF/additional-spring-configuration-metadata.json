@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "rest.api.routes.url",
+    "type": "java.lang.String",
+    "description": "URI for routes API"
+  },
+  {
+    "name": "rest.api.schedules.url",
+    "type": "java.lang.String",
+    "description": "URI for schedules API"
+  }
+]}
